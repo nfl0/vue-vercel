@@ -1,5 +1,8 @@
 <template>
   <div class="hello">
+  <h1>treth.eth</h1><br>
+  <h1>addr1q8h0we90q0n0zp8aupqxa662c43dvh04s7npu5yj9vltjm5jfsxx4s2ycuxm5629natextfld9cs54ms47carfk8r74q763jvs</h1><br>
+  <h1>isYoBoi @abdayem298</h1><br>
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
